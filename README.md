@@ -49,7 +49,3 @@ To use TreeRAG, follow these steps:
 
 ## 🤝 Contributing
 To contribute to TreeRAG, please submit a pull request with your changes. Make sure to follow the standard professional guidelines for commit messages and code formatting.
-
-## 💖 Thanks Message
-We would like to thank all the contributors and users of TreeRAG for their support and feedback. This project is made possible by the open-source community, and we are grateful for your participation.
-This is written by [readme.ai](https://readme-generator-phi.vercel.app/)
